@@ -162,7 +162,7 @@ Analysing and visualizing data to understand its main features, find patterns, a
 #### 5.1.1 Analyse the distribution of taxi pickups by hours, days of the week, and months.
 | Chart 1              | Chart 2               | Chart 3               |
 | ---------------------- | ---------------------- | ---------------------- |
-| ![chart1](Images/1.png) | ![chart2](Images/2.png) | ![chart3](./images/3.png) |
+| ![chart1](Images/1.png) | ![chart2](Images/2.png) | ![chart3](Images/3.png) |
 
 The charts reveal several key insights. The highest number of trips in May occurred on `Thursdays`. A clear pattern emerges, with taxi rides peaking in the morning, stabilizing around noon, and rising again in the evening. The busiest period is `between 5:00 PM and 7:00 PM`.
 
