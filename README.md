@@ -178,7 +178,7 @@ The key insights from the above charts are that the highest revenue was generate
 #### 5.2.2 Relationship of Fare Amount with Trip Distance, Trip Duration and Number of Passengers
 | Chart 1              | Chart 2               |
 | ---------------------- | ---------------------- |
-| ![chart1](./images/6.png) | ![chart2](./images/7.png) |
+| ![chart1](Images/6.png) | ![chart2](Images/7.png) |
 
 1. **Relationship between Trip Distance and Fare Amount**<br>
     - There seems to be a positive correlation between trip distance and fare amount. As the trip distance increases, the fare amount generally increases as well.
@@ -192,7 +192,7 @@ The key insights from the above charts are that the highest revenue was generate
 
 | Chart 3              | Chart 4               |
 | ---------------------- | ---------------------- |
-| ![chart1](./images/8.png) | ![chart2](./images/9.png) |
+| ![chart1](Images/8.png) | ![chart2](Images/9.png) |
 
 1. **Relationship between Number of Passengers and Fare Amount**<br>
     - The correlation between the number of passengers and the fare amount is weak.
@@ -209,7 +209,7 @@ The key insights from the above charts are that the highest revenue was generate
 #### 5.3.1 Total Trips/Zone vs Zone-wise Number of Trips
 | Chart 1              | Chart 2               |
 | ---------------------- | ---------------------- |
-| ![chart1](./images/10.png) | ![chart2](./images/11.png) |
+| ![chart1](Images/10.png) | ![chart2](Images/11.png) |
 
 - The values from 0.92 to 1.06 suggest that most zones have a relatively similar number of trips, with minor variations. This could indicate a balanced distribution of trips across these zones.
 - The value 1e6 (1,000,000) stands out significantly from the other values. This suggests that there is one zone with an exceptionally high number of trips compared to the others. This zone is `Location ID: 132` and `Zone Name: JFK Airport`, it could be a central hub, a major transportation center, or a highly populated area.
@@ -235,7 +235,7 @@ The key insights from the above charts are that the highest revenue was generate
 #### 5.4.1 Traffic Trend Analysis
 | Chart 1              | Chart 2               | Chart 3               |
 | ---------------------- | ---------------------- | ---------------------- |
-| ![chart1](./images/12.png) | ![chart2](./images/13.png) | ![chart3](./images/14.png) |
+| ![chart1](Images/12.png) | ![chart2](Images/13.png) | ![chart3](Images/14.png) |
 
 From the above charts, insights can help in understanding traffic behavior and planning transportation strategies accordingly.
 
@@ -247,7 +247,7 @@ From the above charts, insights can help in understanding traffic behavior and p
 #### 5.4.2 Pricing Strategy Analysis
 | Chart 1              | Chart 2               | Chart 3               |
 | ---------------------- | ---------------------- | ---------------------- |
-| ![chart1](./images/16.png) | ![chart2](./images/17.png) | ![chart3](./images/18.png) |
+| ![chart1](Images/16.png) | ![chart2](Images/17.png) | ![chart3](Images/18.png) |
 
 The above charts provide insights into the average fare per mile for rides at different hours of the day on different days, with a focus on different vendors.
 
@@ -260,7 +260,7 @@ The above charts provide insights into the average fare per mile for rides at di
 #### 5.4.3 Customer Experience Analysis
 | Chart 1              | Chart 2               | Chart 3               |
 | ---------------------- | ---------------------- | ---------------------- |
-| ![chart1](./images/19.png) | ![chart2](./images/20.png) | ![chart3](./images/21.png) |
+| ![chart1](Images/19.png) | ![chart2](Images/20.png) | ![chart3](Images/21.png) |
 
 The above charts provide insights into how different factors influence the average tip percentage for trips.
 
@@ -271,7 +271,7 @@ The above charts provide insights into how different factors influence the avera
 #### 5.4.4 Variation of Passenger Count Analysis
 | Chart 1              | Chart 2               |
 | ---------------------- | ---------------------- |
-| ![chart1](./images/22.png) | ![chart2](./images/23.png) |
+| ![chart1](Images/22.png) | ![chart2](Images/23.png) |
 
 The above charts provide insights into average passenger counts based on different time frames and zones.
 
@@ -281,7 +281,7 @@ The above charts provide insights into average passenger counts based on differe
 #### 5.4.5 Surcharges Analysis
 | Chart 1              |
 | ---------------------- |
-| ![chart1](./images/25.png) |
+| ![chart1](Images/25.png) |
 
 - The graph shows the number of surcharges applied during each hour of the day.
 - The graph likely shows higher surcharge frequencies during certain hours, possibly corresponding to peak usage times.
@@ -328,7 +328,7 @@ Based on the analysis of demand patterns and operational inefficiencies, below a
 #### 6.1.2 Suggestions on strategically positioning cabs across different zones to make best use of insights uncovered by analysing trip trends across time, days and months.
 | Chart 1              |
 | ---------------------- |
-| ![chart1](./images/26.png) |
+| ![chart1](Images/26.png) |
 
 Suggestions on strategically positioning cabs based on trip trends:
 - From the above heatmap we can identify zones with high demand during peak hours (e.g., rush hour, evenings).
